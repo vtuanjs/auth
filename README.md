@@ -1,1 +1,4 @@
-## CORE PROJECT
+## AUTH
+
+### INSTALL
+npm install @vtjs/auth

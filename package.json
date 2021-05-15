@@ -1,7 +1,7 @@
 {
   "name": "@vtjs/auth",
-  "version": "0.1.9",
-  "description": "Auth",
+  "version": "0.2.0",
+  "description": "Auth with JWT and Google, Facebook",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "files": [
